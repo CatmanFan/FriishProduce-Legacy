@@ -1,5 +1,5 @@
 # FriishProduce (Legacy)
-<div align=center><a href=""><img src="https://raw.githubusercontent.com/CatmanFan/FriishProduce/main/legacy/FriishProduce/Resources/images/icon.png" width="172" height="125" /></a><br>
+<div align=center><a href=""><img src="https://github.com/CatmanFan/FriishProduce/blob/main/FriishProduce/Resources/icon.png" width="105" height="75" /></a><br>
 <a href="https://gbatemp.net/threads/friishproduce-multiplatform-wad-injector.632028/"><img src="https://img.shields.io/badge/GBAtemp-thread-informational?style=plastic" /></a>
 </div>
 
